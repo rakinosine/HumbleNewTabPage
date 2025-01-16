@@ -6,4 +6,4 @@ You can change the name of the user getting greeted by editing the newtab.html f
 
 You can change the font-family, font size and the position of text by editing newtab.html file in the group, #greeting starting from Line 305.
 
-Special thanks to ChatGPT
+Special thanks to ChatGPT.
