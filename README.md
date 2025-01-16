@@ -1,6 +1,6 @@
 Everything is same as the original [HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage), I just forked it to add a greeting text on the screen.
 
-The font used is [Inconsolota](https://fonts.google.com/specimen/Inconsolata). (You can change if you wish to)
+The font I used is [Inconsolota](https://fonts.google.com/specimen/Inconsolata).
 
 You can change the name of the user getting greeted by editing the newtab.html file in Line 10.
 
