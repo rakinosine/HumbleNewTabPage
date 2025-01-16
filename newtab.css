@@ -301,3 +301,14 @@ input[type="file"]::-webkit-file-upload-button {
 #options_button {
 	background-image: -webkit-image-set(url("icons/options.png") 1x, url("icons/options@2x.png") 2x);
 }
+
+#greeting {
+    position: absolute;
+    bottom: 0; /* Position at the bottom */
+    right: 0;  /* Align to the right */
+    font-size: 2.5em; /* Explicit font size */
+    color: #dedede; 
+    font-family: 'Inconsolata', monospace;
+    margin: 40px;
+    z-index: 1000; /* Ensure it stays on top */
+}
