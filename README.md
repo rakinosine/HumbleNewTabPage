@@ -2,8 +2,8 @@ Everything is same as the original [HumbleNewTabPage](https://github.com/ibillin
 
 The font I used is [Inconsolota](https://fonts.google.com/specimen/Inconsolata).
 
-You can change the name of the user getting greeted by editing the newtab.html file in Line 10.
+You can change the name of the user getting greeted by editing the Line 10 from the newtab.html file.
 
-You can change the font-family, font size and the position of text by editing newtab.html file in the group, #greeting starting from Line 305.
+You can change the font-family, font size and the position of text by editing the group, #greeting starting from Line 305 from newtab.html file.
 
 Special thanks to ChatGPT.
